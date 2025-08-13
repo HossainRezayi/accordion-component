@@ -44,7 +44,7 @@ function Accordion({ data }) {
         curOpen={curOpen}
         onOpen={setCurOpen}
         title="Thinking in React"
-        num={23}
+        num={22}
         key="test 1"
       >
         <p>Allow React developers to :</p>
